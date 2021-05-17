@@ -2,13 +2,13 @@
 
 hosted-engine --set-maintenance --mode=global
 
-hosted-engine --vm-status    
+hosted-engine --vm-status
 
 hosted-engine --vm-shutdown --force
 
 hosted-engine --vm-poweroff
 
-hosted-engine --vm-start  
+hosted-engine --vm-start
 
 hosted-engine --check-liveliness
 
